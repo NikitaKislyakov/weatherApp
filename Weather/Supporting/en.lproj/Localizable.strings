@@ -1,0 +1,19 @@
+// English localization
+
+// Collection view cells
+
+"rain" = "Rainy";
+"sun" = "Sunny";
+"cloud" = "Cloudy";
+"snow" = "Snowy";
+"storm" = "Storm";
+
+// Labels
+"rain-label-message" = "The rain is expected today. Don't forget your umbrella!";
+"sun-label-message" = "It's sunny today. Have a nice day!";
+"cloud-label-message" = "It's cloudy today. Pretty depressive.";
+"snow-label-message" = "It's snowing! Time to make a snowman.";
+"storm-label-message" = "The storm is coming! Stay in a safe place.";
+
+
+

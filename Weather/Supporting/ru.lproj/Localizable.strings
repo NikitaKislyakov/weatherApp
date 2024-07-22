@@ -1,0 +1,16 @@
+// Russian localization
+
+// Collection view cells
+
+"rain" = "Дождь";
+"sun" = "Ясно";
+"cloud" = "Облачно";
+"snow" = "Снег";
+"storm" = "Гроза";
+
+// Labels
+"rain-label-message" = "Сегодня ожидается дождь. Не забудьте взять зонтик!";
+"sun-label-message" = "Сегодня солнечно. Хорошего дня!";
+"cloud-label-message" = "Сегодня облачно. Довольно депрессивно.";
+"snow-label-message" = "Идет снег. Пора лепить снеговика!";
+"storm-label-message" = "Гроза! Оставайтесь в безопасности!";
